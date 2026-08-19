@@ -4,7 +4,7 @@
 
 ### `GAME DEVELOPER` • `SOFTWARE DEVELOPER` • `PROBLEM SOLVER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=BOOTING+SENTHIL.EXE...;LOADING+GAME+DEV+MODE...;INITIALIZING+GODOT...;BUILDING+PIXEL+WORLDS...;SYSTEM+ONLINE+%E2%9C%93" alt="Animated typing banner" />
+<img src="https://raw.githubusercontent.com/SenthilKumaran958/SenthilKumaran958/main/assets/scrolling-banner.svg" width="100%" alt="Scrolling banner" />
 
 <img width="1280" height="720" alt="Pixel art game development banner" src="https://github.com/user-attachments/assets/6472cab0-f1d2-4a1e-a409-8c2945fd8bd0" />
 
@@ -15,7 +15,6 @@
 </div>
 
 ---
-
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/40fbc696-71c7-41f2-9eab-a26325ce2492" width="100%" alt="Pixel art skill tree" />
@@ -64,10 +63,4 @@
 <a href="https://www.linkedin.com/in/senthil-kumaran-a4744a3a9/">
 <img src="https://img.shields.io/badge/LinkedIn-071426?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E+EXPLORE+%E2%86%92+BUILD+%E2%86%92+PLAY+%E2%86%92+REPEAT+%3C;INSERT+COIN...;NEW+WORLD+LOADING..." alt="Animated footer" />
 </div>
