@@ -15,7 +15,8 @@
 
 ---
 
-<img width="1152" height="648" alt="🌳 SKILL TREE Skill Progress 🎮 Godot  GDScript ████████░░ ⚔️ C++ █████████░ ☕ Java ███████░░░ ☕ Puthon ███████░░░ 🌐 JavaScript ████████░░ 🤖 AI  ML ███████░░░ 🧠 Problem Solving ████████░░" src="https://github.com/user-attachments/assets/37f0fab9-802b-48f6-8476-a46fe5a5aa68" />
+![Uploading 🌳 SKILL TREE Skill Progress 🎮 Godot  GDScript ████████░░ ⚔️ C++ █████████░ ☕ Java ███████░░░ ☕ Puthon ███████░░░ 🌐 JavaScript ████████░░ 🤖 AI  ML ███████░░░ 🧠 Problem Solving ████████░░.gif…]()
+
 
 
 ## 🎯 QUESTS / PROJECTS
