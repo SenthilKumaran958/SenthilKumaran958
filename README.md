@@ -18,23 +18,9 @@
 
 ---
 
-## 🕹️ PLAYER PROFILE
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║  SENTHIL.EXE                                            ║
-║                                                          ║
-║  CLASS        : Game Developer                           ║
-║  ENGINE       : Godot                                    ║
-║  LANGUAGES    : C++ • GDScript • Java • Python • JS    ║
-║  SPECIALITY   : 2D / 3D Game Development                ║
-║  CURRENT MODE : BUILDING NEW WORLDS...                   ║
-╚══════════════════════════════════════════════════════════╝
-```
 
-## 🌳 SKILL TREE
 
-<div align="center">
 
 <img src="https://github.com/user-attachments/assets/40fbc696-71c7-41f2-9eab-a26325ce2492" width="100%" alt="Pixel art skill tree" />
 
