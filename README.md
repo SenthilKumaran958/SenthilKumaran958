@@ -4,7 +4,6 @@
 
 ### `GAME DEVELOPER` • `SOFTWARE DEVELOPER` • `PROBLEM SOLVER`
 
-<img src="https://raw.githubusercontent.com/SenthilKumaran958/SenthilKumaran958/main/assets/scrolling-banner.svg" width="100%" alt="Scrolling banner" />
 
 <img width="1280" height="720" alt="Pixel art game development banner" src="https://github.com/user-attachments/assets/6472cab0-f1d2-4a1e-a409-8c2945fd8bd0" />
 
