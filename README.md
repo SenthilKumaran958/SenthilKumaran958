@@ -11,23 +11,6 @@
 
 </div>
 
----
-
-## ⚔️ PLAYER PROFILE
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     PLAYER PROFILE                           ║
-╠══════════════════════════════════════════════════════════════╣
-║  NAME       : SENTHIL KUMARAN                               ║
-║  CLASS      : GAME DEVELOPER                                ║
-║  ENGINE     : GODOT                                          ║
-║  LANGUAGES  : C++ • JAVA • JAVASCRIPT                       ║
-║  FOCUS      : GAME DEVELOPMENT • AI • SOFTWARE              ║
-║  STATUS     : ● ONLINE                                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 > 🕹️ **Current Quest:** Building meaningful projects and creating my own game worlds.
 
 ---
@@ -39,6 +22,7 @@
 | 🎮 Godot / GDScript | `████████░░` |
 | ⚔️ C++ | `█████████░` |
 | ☕ Java | `███████░░░` |
+| ☕ Puthon | `███████░░░` |
 | 🌐 JavaScript | `████████░░` |
 | 🤖 AI / ML | `███████░░░` |
 | 🧠 Problem Solving | `████████░░` |
@@ -56,19 +40,6 @@
 ### 🥥 My Coconut Oil
 **AI + MERN + RAG** — AI-powered coconut oil management system with semantic search and intelligent recommendations.
 
----
-
-## 🧰 INVENTORY
-
-```text
-🎮 GAME DEV       █████████░  90%
-⚔️ C++             █████████░  90%
-☕ JAVA             ███████░░░  70%
-🌐 JAVASCRIPT      ████████░░  80%
-🤖 AI              ███████░░░  70%
-```
-
----
 
 ## 📊 GITHUB STATUS
 
@@ -88,15 +59,5 @@
 ## 📡 CONNECT
 
 <div align="center">
-<a href="https://www.linkedin.com/in/senthil-kumaran-a4744a3a9/">💼 LinkedIn</a>
-<br><br>
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║          “EVERY GAME BEGINS WITH AN EMPTY WORLD.”        ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-### `> SYSTEM READY_`
-
-</div>
+<a href="https://www.linkedin.com/in/senthil-kumaran-a4744a3a9/">LinkedIn</a>
+<br>
