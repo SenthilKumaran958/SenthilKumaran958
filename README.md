@@ -14,8 +14,8 @@
 > 🕹️ **Current Quest:** Building meaningful projects and creating my own game worlds.
 
 ---
+<img width="1152" height="648" alt="🌳 SKILL TREE Skill Progress 🎮 Godot  GDScript ████████░░ ⚔️ C++ █████████░ ☕ Java ███████░░░ ☕ Puthon ███████░░░ 🌐 JavaScript ████████░░ 🤖 AI  ML ███████░░░ 🧠 Problem Solving ████████░░ (1)" src="https://github.com/user-attachments/assets/40fbc696-71c7-41f2-9eab-a26325ce2492" />
 
-![Uploading 🌳 SKILL TREE Skill Progress 🎮 Godot  GDScript ████████░░ ⚔️ C++ █████████░ ☕ Java ███████░░░ ☕ Puthon ███████░░░ 🌐 JavaScript ████████░░ 🤖 AI  ML ███████░░░ 🧠 Problem Solving ████████░░ (1).gif…]()
 
 
 
