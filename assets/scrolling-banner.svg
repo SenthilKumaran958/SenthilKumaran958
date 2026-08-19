@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <rect width="1200" height="90" rx="14" fill="#071426"/>
+  <rect x="1" y="1" width="1198" height="88" rx="13" fill="none" stroke="#38BDF8" stroke-opacity=".45"/>
+  <g font-family="monospace" font-size="24" font-weight="700" fill="#38BDF8">
+    <text y="56">
+      <animate attributeName="x" from="1220" to="-1220" dur="14s" repeatCount="indefinite"/>
+      &gt; SENTHIL.EXE &nbsp; • &nbsp; GODOT GAME DEV &nbsp; • &nbsp; BUILD PIXEL WORLDS &nbsp; • &nbsp; EXPLORE → BUILD → PLAY → REPEAT &nbsp; • &nbsp; SYSTEM ONLINE ✓ &nbsp; • &nbsp;
+    </text>
+  </g>
+  <g fill="#7DD3FC" opacity=".7">
+    <circle cx="45" cy="20" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="68" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="680" cy="18" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
