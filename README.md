@@ -8,10 +8,6 @@
 
 <img width="1280" height="720" alt="Pixel art game development banner" src="https://github.com/user-attachments/assets/6472cab0-f1d2-4a1e-a409-8c2945fd8bd0" />
 
-<img src="assets/scrolling-banner.svg" width="100%" alt="Animated scrolling game developer banner" />
-
-</div>
-
 <div align="center">
 
 > 🌌 **CURRENT QUEST:** Building meaningful software and creating my own game worlds.
@@ -20,21 +16,6 @@
 
 ---
 
-## 🕹️ PLAYER PROFILE
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║  SENTHIL.EXE                                            ║
-║                                                          ║
-║  CLASS        : Game Developer                           ║
-║  ENGINE       : Godot                                    ║
-║  LANGUAGES    : C++ • GDScript • Java • Python • JS    ║
-║  SPECIALITY   : 2D / 3D Game Development                ║
-║  CURRENT MODE : BUILDING NEW WORLDS...                   ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-## 🌳 SKILL TREE
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/40fbc696-71c7-41f2-9eab-a26325ce2492" width="100%" alt="Pixel art skill tree" />
