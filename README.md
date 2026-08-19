@@ -48,13 +48,6 @@
 
 ---
 
-## 📊 GITHUB SYSTEM STATUS
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SenthilKumaran958&show_icons=true&theme=github_dark&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SenthilKumaran958&theme=github-dark-blue&hide_border=true&background=071426&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="170" />
-</div>
-
 ---
 
 ## 📡 CONNECT
