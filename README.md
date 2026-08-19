@@ -40,21 +40,6 @@
 **AI + MERN + RAG** — AI-powered coconut oil management system with semantic search and intelligent recommendations.
 
 
-## 📊 GITHUB STATUS
-
-<div align="center">
-
-
-
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=SenthilKumaran958&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📡 CONNECT
 
 <div align="center">
