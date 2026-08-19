@@ -6,7 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=BOOTING+SENTHIL.EXE...;LOADING+SKILLS...;INITIALIZING+GODOT...;SYSTEM+ONLINE+%E2%9C%93" alt="Typing animation" />
 
-<img src="assets/banner.png" width="100%" alt="SENTHIL KUMARAN pixel art banner" />
+<img src="<img width="3840" height="2160" alt="wp7889611-iron-man-4k-for-desktop-wallpapers" src="https://github.com/user-attachments/assets/547a00cf-f3b7-4d4d-8dbe-affd10d10bba" />
+" width="100%" alt="SENTHIL KUMARAN pixel art banner" />
 
 </div>
 
@@ -84,23 +85,10 @@
 
 ---
 
-## 🐍 CONTRIBUTION QUEST
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-
-</div>
-
----
-
 ## 📡 CONNECT
 
 <div align="center">
-
-<a href="https://github.com/SenthilKumaran958">🐙 GitHub</a> •
 <a href="https://www.linkedin.com/in/senthil-kumaran-a4744a3a9/">💼 LinkedIn</a>
-
 <br><br>
 
 ```text
