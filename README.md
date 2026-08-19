@@ -15,8 +15,8 @@
 
 ---
 
-<img ![Uploading 🌳 SKILL TREE Skill Progress 🎮 Godot  GDScript ████████░░ ⚔️ C++ █████████░ ☕ Java ███████░░░ ☕ Puthon ███████░░░ 🌐 JavaScript ████████░░ 🤖 AI  ML ███████░░░ 🧠 Problem Solving ████████░░.gif…]()
-img>
+![Uploading 🌳 SKILL TREE Skill Progress 🎮 Godot  GDScript ████████░░ ⚔️ C++ █████████░ ☕ Java ███████░░░ ☕ Puthon ███████░░░ 🌐 JavaScript ████████░░ 🤖 AI  ML ███████░░░ 🧠 Problem Solving ████████░░ (1).gif…]()
+
 
 
 ## 🎯 QUESTS / PROJECTS
