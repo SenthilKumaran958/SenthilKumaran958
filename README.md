@@ -4,8 +4,9 @@
 
 ### `GAME DEVELOPER` • `SOFTWARE DEVELOPER` • `PROBLEM SOLVER`
 
+<img width="1280" height="720" alt="Pixel Jeff_ Photo" src="https://github.com/user-attachments/assets/c747fe25-2453-40e5-a424-8b700d38c735" />
 
-<img width="1280" height="720" alt="Pixel art game development banner" src="https://github.com/user-attachments/assets/6472cab0-f1d2-4a1e-a409-8c2945fd8bd0" />
+
 
 <div align="center">
 
