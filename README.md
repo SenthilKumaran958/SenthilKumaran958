@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=BOOTING+SENTHIL.EXE...;LOADING+SKILLS...;INITIALIZING+GODOT...;SYSTEM+ONLINE+%E2%9C%93" alt="Typing animation" />
 
-<img src="assets/banner.gif" width="100%" alt="Pixel art banner" />
+<img src="assets/banner.png" width="100%" alt="SENTHIL KUMARAN pixel art banner" />
 
 </div>
 
