@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎮 SENTHIL KUMARAN
+# SENTHIL KUMARAN G
 
-### `GAME DEVELOPER` • `SOFTWARE DEVELOPER` • `PROBLEM SOLVER`
+### `GAME DEVELOPER` • `SOFTWARE DEVELOPER`
 
 <img width="1280" height="720" alt="Pixel Jeff_ Photo" src="https://github.com/user-attachments/assets/c747fe25-2453-40e5-a424-8b700d38c735" />
 
