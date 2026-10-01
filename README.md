@@ -14,12 +14,6 @@
 
 </div>
 
----
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/40fbc696-71c7-41f2-9eab-a26325ce2492" width="100%" alt="Pixel art skill tree" />
-</div>
-
 ## ⚔️ QUESTS / PROJECTS
 
 ### 🎮 Shadow Blade
